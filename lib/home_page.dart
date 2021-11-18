@@ -34,7 +34,6 @@ class _HomePageState extends State<HomePage> {
     );
   }
 
-/////////
   Future<void> _optionsDialogBox() async {
     return showDialog(
         context: context,
